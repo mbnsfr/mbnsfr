@@ -2,8 +2,6 @@
   <img src="./assets/kado-cat-laptop.gif" alt="Kado cat walking to a laptop and falling asleep" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Mobina Saffari 👋</h1>
-
 <h3 align="center">Cloud, Full-Stack & AI Developer</h3>
 
 <p align="center">
@@ -69,13 +67,6 @@
     <img src="https://img.shields.io/badge/View%20verified%20certifications%20on-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View verified certifications on Credly" />
   </a>
 </p>
-
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbnsfr&show_icons=true&theme=github_dark&hide_border=true&title_color=ff7a00&icon_color=ff7a00&ring_color=ff7a00" alt="Mobina's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbnsfr&layout=compact&theme=github_dark&hide_border=true&title_color=ff7a00" alt="Mobina's most-used languages" />
-</div>
 
 ---
 
