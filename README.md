@@ -1,41 +1,89 @@
 <div align="center">
-  <img src="./assets/kado-cat-laptop.gif" alt="Animated Kado cat working at a laptop" width="100%" />
-</div><h2 align="center">Cloud, Full-Stack & AI Developer</h2><p align="center">
-  Cloud Administrator at <strong>YAS Networks</strong> · AWS, infrastructure, automation & observability<br>
-  Full-stack developer · Applied AI/ML · Founder of <a href="https://github.com/kado-digital">Kado Digital LLC</a>
-</p><p align="center">
-  <a href="https://www.linkedin.com/in/mobina-saffari/"><img src="https://img.shields.io/badge/LinkedIn-Mobina%20Saffari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mbnsfr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.credly.com/users/mobina-saffari/badges/credly"><img src="https://img.shields.io/badge/Certifications-Credly-F36C21?style=flat-square" alt="Verified badges on Credly" /></a>
-</p>About Me
-- Cloud & AWS: Administration, deployments, monitoring, troubleshooting, and automation in my role at YAS Networks.
-- Software engineering: Full-stack applications and APIs using Python, JavaScript, React, Django, Node.js, and Docker.
-- AI & research: Applied machine learning, RAG concepts, speech emotion recognition, and data-driven systems.
-- Developer tools: Building an experimental multi-agent VS Code assistant for planning, implementation, and review.
-- Founder: Building Kado Digital LLC, an independent software studio developing apps, games, and customizable web experiences.
-- Education: Master's in Artificial Intelligence · Bachelor's in Computer Engineering.
-- Location: Virginia, USA.
-Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,js,react,nodejs,express,django,postgres,docker,git,github,linux,vscode&perline=7" alt="AWS, Python, JavaScript, React, Node.js, Express, Django, PostgreSQL, Docker, Git, GitHub, Linux, VS Code" />
-</p>Focus areas: Cloud infrastructure · Full-stack development · Automation · Observability · Applied AI/ML
-Selected Projects
-VS Code AI Coding Assistant
-An experimental VS Code extension for coordinating AI-assisted planning, implementation, and independent review. Not yet a published production extension.
-Parse Platform
-Full-stack starter combining React, Express, Parse Server, and MongoDB, with typed data filtering, health checks, CI, and Docker development.
-Algorithm Lab
-Interactive scientific-computing demonstrations for optimization benchmarks, optimal transport, and ChiMerge discretization using Django and Python.
-Django Boards
-Discussion-board application with automated tests, environment-based security, health checks, containerization, and GitHub Actions.
-Kado Digital LLC
-At Kado Digital LLC, I'm developing MemeLife (a mobile merge game), Photo Cleaner (a privacy-focused photo review app), and customizable professional website solutions. These are company projects at different stages of development; their source repositories are currently private.
-Certifications
-AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner · AWS Partner training badges · Splunk accreditations
+  <img src="./assets/kado-cat-laptop.gif" alt="Kado cat walking to a laptop and falling asleep" width="100%" />
+</div>
 
-View verified credentials on Credly
+<h3 align="center">Cloud, Full-Stack & AI Developer</h3>
+
 <p align="center">
-  <strong>Open to cloud, full-stack, AI, and developer-tool opportunities.</strong><br>
+  Cloud Administrator at <strong>YAS Networks</strong> · AWS & DevOps · Full-Stack Development<br />
+  Applied AI/ML · Founder of <a href="https://github.com/kado-digital"><strong>Kado Digital LLC</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mobina-saffari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mobina%20Saffari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mbnsfr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.credly.com/users/mobina-saffari/badges/credly">
+    <img src="https://img.shields.io/badge/Certifications-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Verified badges on Credly" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- ☁️ **Cloud & AWS:** Infrastructure, automation, troubleshooting, and observability at YAS Networks.
+- 💻 **Full-Stack:** Python, JavaScript, React, Django, APIs, and Docker.
+- 🧠 **AI & Research:** RAG, speech emotion recognition, and scientific computing.
+- 🛠️ **Developer Tools:** Building an experimental multi-agent VS Code assistant.
+- 🐈 **Kado Digital LLC:** Creating apps, games, and custom digital experiences.
+- 🎓 **Education:** Master's in Artificial Intelligence · Bachelor's in Computer Engineering.
+- 📍 **Virginia, USA**
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,python,js,react,nodejs,express,django,php,laravel,postgres,mongodb,docker,git,github,linux,vscode&perline=8" alt="Technology icons" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Observability-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/APIs-REST-FF7A00?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-8A2BE2?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+</div>
+
+## Featured Projects
+
+| Project | Highlights | Tech |
+| :--- | :--- | :--- |
+| [**VS Code AI Assistant**](https://github.com/mbnsfr/vscode-ai-assistant) | Experimental multi-agent planning, implementation, and review. | JavaScript, VS Code |
+| [**Parse Platform**](https://github.com/mbnsfr/Parse-Platform) | Full-stack app, data filters, APIs, and CI. | React, Express, MongoDB |
+| [**Algorithm Lab**](https://github.com/mbnsfr/Algorithm-Lab) | Optimization, optimal transport, and ChiMerge demos. | Python, Django, SciPy |
+| [**Django Boards**](https://github.com/mbnsfr/Django-Boards) | Secure configuration, testing, and containerization. | Django, Docker, CI |
+| [**AWS Python Examples**](https://github.com/mbnsfr/aws-practice) | Cloud data and automation experiments. | AWS, Python, Boto3 |
+
+<p align="center">
+  🐈 More apps, games, and website projects at <a href="https://github.com/kado-digital"><strong>Kado Digital LLC</strong></a>.
+</p>
+
+## Certifications & Accreditations
+
+<p align="center">
+  AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner<br />
+  AWS Partner Training · Splunk Accreditations
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/mobina-saffari/badges/credly">
+    <img src="https://img.shields.io/badge/VIEW%20VERIFIED%20BADGES-CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="View verified certifications and accreditations on Credly" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to cloud, full-stack, AI, and developer-tool opportunities.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mbnsfr">GitHub</a> ·
   <a href="https://www.linkedin.com/in/mobina-saffari/">LinkedIn</a> ·
   <a href="https://github.com/kado-digital">Kado Digital LLC</a> ·
   <a href="mailto:mbnsfr@gmail.com">Email</a>
